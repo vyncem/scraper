@@ -8,5 +8,6 @@ The idea of writing a website scraper came about when a colleague needed to spam
 The work was done on a x86_64 machine running Ubuntu 14.04 with the additional prerequisite of installing BeautifulSoup (apt-get install python-bs4).
 
 
-- [ ] do
-- [ ] it
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
